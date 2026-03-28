@@ -1,7 +1,7 @@
 # Retail-Analysis
 RETAIL SALES OVERVIEW
 
-!Retail(Retail_Analysis.jpg)
+![Retail](Retail_Analysis.jpg)
 
 <h3>Case Study Outline</h3>
 
