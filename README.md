@@ -7,7 +7,7 @@ RETAIL SALES OVERVIEW
 
 <h3></h3>Business Problem:</h3>
 
-The restaurant wants to understand which products get the most orders and also drive the most revenue. the Business also would like to know when customers are most active, in order to optimize product offerings, staffing, and sales strategy.
+The Retail Business wants to understand which products get the most orders and also drive the most revenue. the Business also would like to know when customers are most active, in order to optimize product offerings, staffing, and sales strategy.
 
 The reason for this is that despite having consistent operations, the business lacks clarity on which items contribute the most to revenue and the specific times customers are most likely to purchase. This limits its ability to optimize inventory, pricing, and staffing decisions.
 
@@ -35,7 +35,7 @@ DATA CLEANING PROCESS using Power Query:
 
 •	Starting with Invoice ID, I cleaned and removed all invoice ID’s starting with the letter ‘c.’
 
-•	Removed duplicates from the data starting
+•	Removed duplicates from the data.
 
 •	Added a TotalSales column by multiplying Quantity by UnitPrice
 
@@ -60,7 +60,7 @@ DATA CLEANING PROCESS using Power Query:
 
 <h4>Sales By Month:</h4>
 
-•	During July, we see a peak in customer purchases, possibly driven by warm weather conditions that favour interior designs and moving houses.
+•	During July, we see a peak in customer purchases, with $51,037 generated in revenue.
 
 <h3>Recommendations</h3>
 
