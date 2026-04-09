@@ -7,7 +7,7 @@ RETAIL SALES OVERVIEW
 
 <h3></h3>Business Problem:</h3>
 
-The Retail Business wants to understand which products get the most orders and also drive the most revenue. the Business also would like to know when customers are most active, in order to optimize product offerings, staffing, and sales strategy.
+The Retail Business wants to understand which products get the most orders and also drive the most revenue. The business also would like to know when customers are most active, in order to optimize product offerings, staffing, and sales strategy.
 
 The reason for this is that despite having consistent operations, the business lacks clarity on which items contribute the most to revenue and the specific times customers are most likely to purchase. This limits its ability to optimize inventory, pricing, and staffing decisions.
 
