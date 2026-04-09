@@ -1,7 +1,7 @@
 # Retail-Analysis
 RETAIL SALES OVERVIEW
 
-![Retail](Retail_Analysis.jpg)
+![Retail](Retail%20Analysis%20Dashboard.jpg)
 
 <h3>Case Study Outline</h3>
 
@@ -9,7 +9,6 @@ RETAIL SALES OVERVIEW
 
 .
 The Retail Business wants to understand which products get the most orders and also drive the most revenue. the Business also would like to know when customers are most active, in order to optimize product offerings, staffing, and sales strategy.
-.
 
 The reason for this is that despite having consistent operations, the business lacks clarity on which items contribute the most to revenue and the specific times customers are most likely to purchase. This limits its ability to optimize inventory, pricing, and staffing decisions.
 
@@ -42,6 +41,12 @@ DATA CLEANING PROCESS using Power Query:
 •	Added a TotalSales column by multiplying Quantity by UnitPrice
 
 •	Checked for duplicates and Null values
+
+<h3>SLICERS:</h3>
+
+• Hours
+
+•Day of the week
 
 <h3>KEY FINDINGS:</h3>
 
