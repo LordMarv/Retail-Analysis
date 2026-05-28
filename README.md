@@ -70,7 +70,7 @@ DATA CLEANING PROCESS using Power Query:
 
 <h3>Recommendations</h3>
 
-•	The key is to stay consistent in stocking high-volume items in order not to hurt fulfillment rates.
+•	Prioritize consistent stocking of high-volume items like WORLD WAR 2 GLIDERS ASSTD DESIGNS in order not to hurt fulfillment rates.
 
 •	Priorities should be made for marketing and increasing the visibility of top revenue products since they have the highest impact on revenue generation.
 
