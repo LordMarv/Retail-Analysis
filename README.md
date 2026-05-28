@@ -66,7 +66,7 @@ DATA CLEANING PROCESS using Power Query:
 
 <h4>Sales By Month:</h4>
 
-•	During July, we see a peak in customer purchases, with $51,037 generated in revenue.
+•	During July, we see a peak in customer purchases, with $51,037 generated in revenue, possibly driven by warm weather conditions that favour interior designs and moving houses.
 
 <h3>Recommendations</h3>
 
